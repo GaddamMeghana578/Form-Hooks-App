@@ -7,7 +7,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You are going to need **npm** or **yarn** installed on your machine.
-Make sure you are using the latest version of node.
 
 ### Installing
 
@@ -38,7 +37,7 @@ Form-Hooks-App/yarn install
 
 ```
 
-Run the application on the client
+Run the application
 
 ```
 Form-Hooks-App/npm start
@@ -54,7 +53,7 @@ Now you can see that **localhost:3000** automatically opens up on your browser a
 
 ## Project Description
 
-It is a Visitor Form Application developed using react hooks. The main purpose of this application was to get into using react hooks with functional components over class components
+It is a Visitor Form Application developed using react hooks. The main purpose of this application is to get familiar with functional components using react hooks over class components.
 
 ## Authors
 
